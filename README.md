@@ -1,79 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mohamed Nader</h1>
-
-<h3 align="center">
-  Teaching Assistant | React & React Native Developer
-</h3>
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <a href="https://www.monader.me/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-www.monader.me-0A66C2?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7B2FFF&height=220&section=header&text=Mohamed%20Nader&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Teaching%20Assistant%20%7C%20React%20%26%20React%20Native%20Developer&descAlignY=55&descSize=20&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=00C6FF&center=true&vCenter=true&width=850&lines=Teaching+Assistant+%F0%9F%8E%93;React+Developer+%E2%9A%9B%EF%B8%8F;React+Native+Developer+%F0%9F%93%B1;Building+Modern+Web+Applications+%F0%9F%9A%80;Creating+Smooth+%26+Interactive+UI+%F0%9F%8E%A8;Always+Learning.+Always+Building.+%F0%9F%94%A5"/>
+</p>
+
+<p align="center">
+  <a href="https://www.monader.me/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="mailto:mnader200444@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-7B2FFF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
+
+<!-- ===================== ABOUT ===================== -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Teaching+Assistant+%7C+Computer+Science;React+Developer+⚛️;React+Native+Developer+📱;Building+Modern+%26+Interactive+Experiences;Always+Learning+%26+Building+🚀" />
+  I'm <b>Mohamed Nader</b>, a Computer Science Teaching Assistant and
+  Front-End Developer passionate about building modern digital experiences.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=monaderrrr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  ⚛️ React &nbsp; • &nbsp;
+  📱 React Native &nbsp; • &nbsp;
+  💙 TypeScript &nbsp; • &nbsp;
+  🎨 UI/UX &nbsp; • &nbsp;
+  🚀 Modern Web
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
-
----
-
-## 👨‍💻 About Me
-
-🎓 **Teaching Assistant** at **Misr Higher Institute for Commerce & Computers – Computer Science Department**
-
-💻 **React Developer** focused on building modern, scalable and responsive web applications.
-
-📱 **React Native Developer** interested in building cross-platform mobile applications.
-
-⚛️ Passionate about the **React Ecosystem**, clean UI, reusable components and smooth user experiences.
-
-🚀 I enjoy turning ideas into real-world products with modern technologies.
-
-🌱 Currently improving my skills in **Advanced React, Performance Optimization, Mobile Development & Software Architecture**.
-
-💬 Ask me about **React, React Native, JavaScript, TypeScript, UI/UX & Front-End Development**.
-
-📫 **Email:** [mnader200444@gmail.com](mailto:mnader200444@gmail.com)
-
----
-
-## 🧑‍🏫 Academic Role
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Teaching%20Assistant-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Department-Computer%20Science-0A66C2?style=for-the-badge" />
-</p>
-
-> Supporting students, sharing technical knowledge, and continuously developing my academic and software engineering skills.
-
----
-
-## ⚛️ What I Build
+<br/>
 
 <table align="center">
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### 🌐 Web Applications
+### 🎓 Academic Life
 
-Modern and responsive web applications using:
+**Teaching Assistant**
 
-**React • Next.js • TypeScript • Tailwind CSS**
+Misr Higher Institute for Commerce & Computers
+
+**Computer Science Department**
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### 📱 Mobile Applications
+### 💻 Developer Life
 
-Cross-platform mobile applications using:
+**React & React Native Developer**
 
-**React Native • Expo • JavaScript / TypeScript**
+Building scalable applications with modern technologies and clean architecture.
 
 </td>
 </tr>
@@ -81,63 +66,180 @@ Cross-platform mobile applications using:
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-### 💻 Languages
+<h2 align="center">🔥 Currently Working On</h2>
 
-<p>
+<p align="center">
+
+<img src="https://img.shields.io/badge/⚛️%20React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/📱%20React%20Native-Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/🔷%20TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚡%20Performance-Optimization-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎨%20UI%2FUX-Interactive-FF61F6?style=for-the-badge"/>
+
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-### ⚛️ Front-End
+<h3 align="center">Frontend</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,jquery" />
 </p>
 
-### 📱 Mobile Development
+<h3 align="center">Mobile</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=reactnative,expo" />
 </p>
 
-### 🧠 State Management
+<h3 align="center">State Management</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=redux" />
 </p>
 
-### ⚙️ Tools & Workflow
+<h3 align="center">Tools</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vite,npm,yarn,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== ANIMATED TECH ===================== -->
+
+<h2 align="center">🚀 Technologies I Work With</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monaderrrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaderrrr&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,nextjs,tailwind,redux,vite,git,github&perline=10"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=monaderrrr&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=monaderrrr&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00C6FF&icon_color=7B2FFF"/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaderrrr&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00C6FF"/>
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+<!-- ===================== STREAK ===================== -->
+
+<h2 align="center">🔥 Coding Streak</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/monaderrrr/monaderrrr/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://streak-stats.demolab.com?user=monaderrrr&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=7B2FFF&currStreakLabel=00C6FF"/>
 </p>
 
 ---
 
-##
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monaderrrr&bg_color=0D1117&color=00C6FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true"/>
+</p>
+
+---
+
+<!-- ===================== SNAKE ===================== -->
+
+<h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/monaderrrr/monaderrrr/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🩺 OralScan AI
+
+AI-powered early oral cancer detection system using Machine Learning and Computer Vision.
+
+**React • AI • FastAPI • MongoDB**
+
+</td>
+
+<td width="50%" align="center">
+
+### 💰 CashRadar
+
+Modern financial platform for currency rates, bank comparison, analytics and price alerts.
+
+**React • Tailwind • APIs • Maps**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ===================== SOCIAL ===================== -->
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/monaderrrr/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/monaderrrr">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/mo_nader_1">
+<img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/mohamednaderr__/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:0072FF,100:00C6FF&height=120&section=footer&animation=twinkling"/>
+</p>
+
+<h3 align="center">
+  ⚡ Code • Create • Learn • Repeat ⚡
+</h3>
+
+<p align="center">
+  <i>Turning ideas into interactive experiences.</i>
+</p>
