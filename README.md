@@ -62,66 +62,6 @@ As a Teaching Assistant, I'm passionate about sharing technical knowledge,
 supporting students and continuously developing my academic and practical
 skills in software development.
 
----
-
-## ⚡ What I Do
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 🌐 Web Development
-
-<br>
-
-⚛️ **React**
-
-▲ **Next.js**
-
-🔷 **TypeScript**
-
-🎨 **Tailwind CSS**
-
-⚡ **Vite**
-
-🧠 **Redux Toolkit**
-
-<br>
-
-Building modern, scalable and responsive web applications with clean,
-reusable and maintainable components.
-
-</td>
-
-<td width="50%" align="center">
-
-### 📱 Mobile Development
-
-<br>
-
-⚛️ **React Native**
-
-🚀 **Expo**
-
-🔷 **TypeScript**
-
-📱 **Cross-Platform Development**
-
-🎨 **Modern UI**
-
-<br>
-
-Building smooth and interactive mobile applications for
-Android & iOS.
-
-</td>
-
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -169,26 +109,3 @@ Android & iOS.
 </div>
 
 <br>
-
-```text
-Frontend Development
-        │
-        ├── ⚛️ React
-        ├── ▲ Next.js
-        ├── 🔷 TypeScript
-        ├── 🎨 Tailwind CSS
-        └── ⚡ Vite
-
-Mobile Development
-        │
-        ├── 📱 React Native
-        ├── 🚀 Expo
-        └── 🔷 TypeScript
-
-Development Mindset
-        │
-        ├── 🧩 Reusable Components
-        ├── 🚀 Performance
-        ├── 🎨 UI/UX
-        ├── 📐 Clean Code
-        └── 🔥 Continuous Learning
